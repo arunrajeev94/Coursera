@@ -2,6 +2,7 @@ body {
     font-family: 'Oxygen', sans-serif;
     font-size: 20px;
     color: black;
+    font-weight: 400;
     }
 
 body h2 {
@@ -12,7 +13,7 @@ body h2 {
 
 
 #header-nav{
-    background-color:rgb(172, 171, 171);
+    background-color:rgb(196, 195, 195);
     font-family: 'Oxygen', sans-serif;
     font-size: 16px;
     font-weight: 700;
@@ -41,7 +42,7 @@ body h2 {
     font-family: 'Oxygen', sans-serif;  
     font-size: 16px;
     color: black;
-    background-color: rgb(172, 171, 171);
+    background-color: rgb(196, 195, 195);
     margin:30px;
     padding:20px;
 }
